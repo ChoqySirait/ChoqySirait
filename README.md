@@ -1,7 +1,11 @@
 <div align="center">
 
 # Hi, I'm Choqy Pananda Sirait 👋
-### Full-Stack Developer & Cybersecurity Enthusiast
+
+<!-- Animasi Mengetik (Typing Animation) -->
+<a href="https://github.com/ChoqySirait">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Cybersecurity+%26+System+Enthusiast;Building+Modern+Interfaces+%26+Secure+Logic" alt="Typing SVG" />
+</a>
 
 <p align="center">
   Passionate about developing modern web applications, exploring backend architecture, and practicing cybersecurity fundamentals in Unix/Linux environments.
@@ -21,6 +25,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### ⚙️ Backend & Programming
@@ -30,33 +36,36 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Repositories
 
 - 📦 **[SupplySync - Mini Warehouse Management System](https://github.com/ChoqySirait/SupplySync-Mini-Warehouse-Management-System)**  
-  *Sistem manajemen gudang berbasis web untuk pelacakan inventaris, pencatatan transaksi masuk/keluar, dan kontrol stok.*  
+  *Sistem manajemen gudang untuk pelacakan inventaris, pencatatan transaksi masuk/keluar, dan kontrol stok barang.*  
   `Tags: Web Development · Management System`
 
 - 💉 **[Sistem Manajemen Data & Jadwal Imunisasi Anak](https://github.com/ChoqySirait/Sistem-Manajemen-Data-Jadwal-Imunisasi-Anak)**  
   *Aplikasi pengelolaan jadwal dan data rekam medis imunisasi anak secara terstruktur dan terotomatisasi.*  
   `Tags: Java · Database Management`
 
-- 🌐 **[Personal Portfolio Website](https://github.com/ChoqySirait/Portfolio-Sdrhana)**  
-  *Website portofolio interaktif yang memuat katalog proyek, profil teknis, dan showcase kemampuan rekayasa perangkat lunak.*  
+- 🌐 **[Portfolio Website](https://github.com/ChoqySirait/Portfolio-Sdrhana)**  
+  *Website portofolio interaktif yang memuat showcase kemampuan rekayasa perangkat lunak dan proyek web.*  
   `Tags: TypeScript · Frontend Engine`
 
 - 📝 **[Nakama To-Do List](https://github.com/ChoqySirait/Nakama-To-Do-List)**  
-  *Aplikasi manajemen tugas interaktif dengan fungsionalitas CRUD dan manipulasi antarmuka dinamis.*  
+  *Aplikasi to-do list interaktif dengan pengelolaan tugas berbasis state dinamis.*  
   `Tags: JavaScript · Web Application`
+
+- 🎮 **[Game Aneh D](https://github.com/ChoqySirait/Game-Aneh-D)**  
+  *Eksplorasi pembuatan logika game interaktif ringan menggunakan JavaScript.*  
+  `Tags: JavaScript · Game Development`
+
+- 📜 **[Choqy Pananda Sirait (Certificates)](https://github.com/ChoqySirait/Choqy-Pananda-Sirait)**  
+  *Dokumentasi dan arsip sertifikasi kompetensi teknis dan partisipasi program.*  
+  `Tags: Documentation · Achievements`
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📈 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChoqySirait&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoqySirait&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoqySirait&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
