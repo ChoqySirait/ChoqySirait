@@ -1,38 +1,45 @@
 <div align="center">
 
-# Hi, I'm Choqy Pananda Sirait 👋
+  <!-- Animasi Nama Neon / Cyber -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%3E_Choqy+Pananda+Sirait;Security+%26+Full-Stack+Engineer;" alt="Typing Name" />
 
-<!-- Animasi Mengetik (Typing Animation) -->
-<a href="https://github.com/ChoqySirait">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Cybersecurity+%26+System+Enthusiast;Building+Modern+Interfaces+%26+Secure+Logic" alt="Typing SVG" />
-</a>
+  <!-- Sub-animasi Status -->
+  <a href="https://github.com/ChoqySirait">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Passionate+about+Secure+System+Environments;Full-Stack+Web+Architectures+%26+Databases;Exploring+Network+Security%2C+Unix%2FLinux+%26+Tools" alt="Typing Subtitle" />
+  </a>
 
-<p align="center">
-  Passionate about developing modern web applications, exploring backend architecture, and practicing cybersecurity fundamentals in Unix/Linux environments.
-</p>
+  <p align="center">
+    <i>"Bridging responsive frontend experiences with resilient backend architectures and system security fundamentals."</i>
+  </p>
 
 </div>
 
 ---
 
-### 🛡️ Cybersecurity & Systems
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛡️ Cybersecurity, OS & Tooling
+> *Environments, network tools, and version control systems utilized for testing, development, and system administration.*
 
-### 💻 Frontend & UI/UX Design
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kali,ubuntu,linux,bash,git,github" />
+</p>
 
-### ⚙️ Backend & Programming
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+---
+
+### 💻 Technologies & Programming Languages
+
+#### ⚡ Core Stack *(Actively Used & High Proficiency)*
+> *Primary languages, frameworks, and database engines used regularly in daily workflows and projects.*
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,figma,nodejs,php,java,mysql" />
+</p>
+
+#### 🔍 Familiar & Currently Exploring *(Foundational / Working Knowledge)*
+> *Solid conceptual grasp of logic and architecture; actively expanding depth and practical implementations.*
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,postgres" />
+</p>
 
 ---
 
@@ -64,8 +71,13 @@
 
 ---
 
-### 📈 Contribution Streak
+### 📈 Activity & Security Metrics
 
 <div align="center">
+  <!-- Interactive Activity Graph Dark Cyber Theme -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChoqySirait&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoqySirait&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
