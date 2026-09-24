@@ -4,7 +4,7 @@
 
 <!-- Typing Animation Sempurna & Lebar -->
 <a href="https://github.com/ChoqySirait">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Cybersecurity+%26+Linux+Enthusiast;Databases%2C+Clean+Architecture+%26+System+Logic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Cybersecurity+%26+Enthusiast;Databases%2C+Clean+Architecture+%26+System+Logic;UI/UX+26%" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -89,7 +89,7 @@
   `Tech: JavaScript · DOM · Web App`
 
 > 💡 **Explore More Works:**  
-> Untuk melihat repositori lainnya, silakan kunjungi katalog publik di **[@ChoqySirait](https://github.com/ChoqySirait?tab=repositories)** atau akses web demo di **[kirito-ss.vercel.app](https://kirito-ss.vercel.app)**.
+> See Another At **[@ChoqySirait](https://github.com/ChoqySirait?tab=repositories)** Or **[kirito-ss.vercel.app](https://kirito-ss.vercel.app)**.
 
 ---
 
