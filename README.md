@@ -2,13 +2,13 @@
 
 # Hi, I'm Choqy Pananda Sirait 
 
-<!-- Animasi Mengetik Rapih & Lebar (Tidak Terpotong) -->
+<!-- Typing Animation -->
 <a href="https://github.com/ChoqySirait">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Cybersecurity+%26+Linux+Enthusiast;Databases%2C+Clean+Architecture+%26+Security" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  Passionate about developing modern web applications, exploring backend architecture, and practicing cybersecurity fundamentals in Unix/Linux environments.
+  Passionate software engineer focused on building robust full-stack web applications, exploring network & system security fundamentals in Unix/Linux environments, and designing clean, efficient database architectures.
 </p>
 
 </div>
@@ -23,14 +23,14 @@
 ### 💻 Technologies & Programming Languages
 
 #### ⚡ Core Stack
-> *Primary languages, frameworks, and tools used actively in daily workflows.*
+> *Primary languages, frameworks, and database engines actively used in production and daily development workflows.*
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,figma,nodejs,php,java,mysql" />
 </p>
 
 #### 🔍 Familiar & Currently Exploring
-> *Solid conceptual grasp of logic and architecture; actively expanding practical implementation.*
+> *Solid foundational grasp of logic, syntax, and system architecture; continuously expanding practical depth.*
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cs,postgres" />
@@ -40,23 +40,12 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/ChoqySirait/SupplySync-Mini-Warehouse-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChoqySirait&repo=SupplySync-Mini-Warehouse-Management-System&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ChoqySirait/Sistem-Manajemen-Data-Jadwal-Imunisasi-Anak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChoqySirait&repo=Sistem-Manajemen-Data-Jadwal-Imunisasi-Anak&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/ChoqySirait/Portfolio-Sdrhana">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChoqySirait&repo=Portfolio-Sdrhana&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ChoqySirait/Nakama-To-Do-List">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChoqySirait&repo=Nakama-To-Do-List&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+| 📦 **Project** | 🛠️ **Tech Stack** | 🎯 **Focus & Key Features** |
+| :--- | :--- | :--- |
+| [**SupplySync - Mini Warehouse**](https://github.com/ChoqySirait/SupplySync-Mini-Warehouse-Management-System) | `HTML` · `CSS` · `JavaScript` · `System Logic` | Web-based inventory management system designed for tracking warehouse transactions, stock balance, and item flow. |
+| [**Sistem Imunisasi Anak**](https://github.com/ChoqySirait/Sistem-Manajemen-Data-Jadwal-Imunisasi-Anak) | `Java` · `MySQL` · `Data Management` | Structured records management desktop application to schedule, automate, and monitor children's immunization data. |
+| [**Personal Portfolio**](https://github.com/ChoqySirait/Portfolio-Sdrhana) | `TypeScript` · `React` · `Tailwind` | Interactive responsive developer portfolio displaying technical projects, tech stack showcase, and UI design concepts. |
+| [**Nakama To-Do List**](https://github.com/ChoqySirait/Nakama-To-Do-List) | `JavaScript` · `Web App` · `DOM` | Dynamic task management application with state persistence, responsive user interface, and clean task filtering logic. |
 
 ---
 
