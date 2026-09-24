@@ -4,7 +4,7 @@
 
 <!-- Typing Animation Sempurna & Lebar -->
 <a href="https://github.com/ChoqySirait">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Cybersecurity+%26+Enthusiast;Databases%2C+Clean+Architecture+%26+System+Logic;UI/UX+26%" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Databases%2C+Clean+Architecture+%26+System+Logic;UI/UX" alt="Typing SVG" />
 </a>
 
 <p align="center">
