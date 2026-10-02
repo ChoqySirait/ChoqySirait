@@ -1,6 +1,5 @@
 <div align="center">
 
-
   # Hi, I'm Choqy Pananda Sirait 
 
   <!-- Typing Animation (Aksen Merah Crimson #E63946) -->
@@ -11,6 +10,9 @@
   <p align="center">
     Passionate software engineer focused on building robust full-stack web applications, exploring network & system security fundamentals in Unix/Linux environments, and designing clean, efficient database architectures.
   </p>
+
+  <!-- Live Terminal Telemetry Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=1000&color=E63946&background=0D1117&center=true&vCenter=true&multiline=true&width=620&height=95&lines=%24+whoami+%3D%3D%3E+Choqy+Pananda+Sirait;%24+nmap+-sV+--audit+%3D%3D%3E+%5BSYSTEM+SECURE%5D;%24+status%3A+Deploying+Robust+Architecture..." alt="Terminal Telemetry" />
 
 </div>
 
@@ -94,15 +96,16 @@
 
 ---
 
-### 📈 Activity Metrics & Telemetry
+### 📈 Contribution Metrics & 3D Telemetry
 
 <div align="center">
-  <!-- GitHub Streak Card Tema Gelap & Aksen Merah -->
+  <!-- GitHub Streak Card Tema Gelap & Merah Katana -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoqySirait&theme=blood&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakNum=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" width="100%" />
+  <!-- 3D Isometric Night View (Jauh lebih mewah daripada ular 2D biasa) -->
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" width="95%" />
 </div>
