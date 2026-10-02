@@ -2,7 +2,7 @@
 
   # Hi, I'm Choqy Pananda Sirait 
 
-  <!-- Typing Animation (Aksen Merah Crimson #E63946) -->
+  <!-- Typing Animation Utama (Aksen Merah Crimson #E63946) -->
   <a href="https://github.com/ChoqySirait">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=E63946&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Databases%2C+Clean+Architecture+%26+System+Logic;UI/UX" alt="Typing SVG" />
   </a>
@@ -11,8 +11,15 @@
     Passionate software engineer focused on building robust full-stack web applications, exploring network & system security fundamentals in Unix/Linux environments, and designing clean, efficient database architectures.
   </p>
 
-  <!-- Live Terminal Telemetry Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=1000&color=E63946&background=0D1117&center=true&vCenter=true&multiline=true&width=620&height=95&lines=%24+whoami+%3D%3D%3E+Choqy+Pananda+Sirait;%24+nmap+-sV+--audit+%3D%3D%3E+%5BSYSTEM+SECURE%5D;%24+status%3A+Deploying+Robust+Architecture..." alt="Terminal Telemetry" />
+  <!-- Tombol Badge Kontak / Portofolio -->
+  <p align="center">
+    <a href="https://kirito-ss.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Portfolio-E63946?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://github.com/ChoqySirait?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/All_Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    </a>
+  </p>
 
 </div>
 
@@ -96,16 +103,18 @@
 
 ---
 
-### 📈 Contribution Metrics & 3D Telemetry
+### 📈 Activity Metrics & Telemetry
 
 <div align="center">
-  <!-- GitHub Streak Card Tema Gelap & Merah Katana -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoqySirait&theme=blood&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakNum=FFFFFF" alt="GitHub Streak" />
+  <!-- GitHub Overall Stats & Streak Card Berdampingan (Tema Dark + Red) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ChoqySirait&show_icons=true&theme=dark&title_color=E63946&icon_color=E63946&text_color=c9d1d9&bg_color=0D1117&hide_border=true" height="150" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoqySirait&theme=blood&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakNum=FFFFFF" height="150" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- 3D Isometric Night View (Jauh lebih mewah daripada ular 2D biasa) -->
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" width="95%" />
+  <!-- Activity Wave Graph (Pengganti Gambar 3D yang Rusak, Langsung Aktif Otomatis) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChoqySirait&theme=github-dark&color=E63946&line=E63946&point=FFFFFF&area=true&hide_border=true" alt="Activity Curve Graph" width="95%" />
 </div>
