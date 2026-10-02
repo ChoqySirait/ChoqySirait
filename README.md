@@ -1,7 +1,8 @@
 <div align="center">
 
   <!-- Banner Tema Samurai -->
-  <img src="assets/banner.jpg" alt="Choqy Sirait Banner" width="100%" />
+  <img src="<img width="736" height="1308" alt="assetsbanner" src="https://github.com/user-attachments/assets/2c883f79-1b21-47fd-9d3b-87a6c52812a4" />
+" alt="Choqy Sirait Banner" width="100%" />
 
   <br><br>
 
