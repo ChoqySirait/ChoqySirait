@@ -1,9 +1,5 @@
 <div align="center">
 
-  <!-- Banner Samurai (Ukuran dioptimalkan agar rapi di tengah) -->
-  <img src="https://github.com/user-attachments/assets/2c883f79-1b21-47fd-9d3b-87a6c52812a4" alt="Choqy Sirait Banner" width="450" />
-
-  <br><br>
 
   # Hi, I'm Choqy Pananda Sirait 
 
