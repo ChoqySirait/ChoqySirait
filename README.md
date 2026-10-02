@@ -1,5 +1,9 @@
 <div align="center">
 
+  <!-- Banner Samurai -->
+  <img src="https://github.com/user-attachments/assets/2c883f79-1b21-47fd-9d3b-87a6c52812a4" alt="Choqy Sirait Banner" width="450" />
+
+  <br><br>
 
   # Hi, I'm Choqy Pananda Sirait 
 
@@ -94,20 +98,16 @@
 
 ---
 
-### 📈 Contribution Streak & Metrics
+### 📈 Activity Metrics & Telemetry
 
 <div align="center">
-  <!-- GitHub Streak dengan Dark-Red Theme yang serasi -->
+  <!-- GitHub Streak Card Tema Gelap & Aksen Merah -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoqySirait&theme=blood&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakNum=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Animasi Ular Pemakan Kontribusi / Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChoqySirait/ChoqySirait/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChoqySirait/ChoqySirait/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ChoqySirait/ChoqySirait/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <!-- Activity Wave Graph: Modern, presisi, dan selaras dengan tema Samurai Dark-Red -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChoqySirait&theme=github-dark&color=E63946&line=E63946&point=FFFFFF&area=true&hide_border=true" alt="Activity Curve Graph" width="95%" />
 </div>
