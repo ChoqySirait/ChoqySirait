@@ -16,6 +16,7 @@
     <a href="https://kirito-ss.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Live_Portfolio-E63946?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
+    &nbsp;
     <a href="https://github.com/ChoqySirait?tab=repositories" target="_blank">
       <img src="https://img.shields.io/badge/All_Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
     </a>
@@ -103,18 +104,16 @@
 
 ---
 
-### 📈 Activity Metrics & Telemetry
+### 📈 Contribution Streak & Metrics
 
 <div align="center">
-  <!-- GitHub Overall Stats & Streak Card Berdampingan (Tema Dark + Red) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ChoqySirait&show_icons=true&theme=dark&title_color=E63946&icon_color=E63946&text_color=c9d1d9&bg_color=0D1117&hide_border=true" height="150" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoqySirait&theme=blood&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakNum=FFFFFF" height="150" alt="GitHub Streak" />
+  <!-- GitHub Streak Card (Sederhana & Elegan di Tengah) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoqySirait&theme=blood&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakNum=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Activity Wave Graph (Pengganti Gambar 3D yang Rusak, Langsung Aktif Otomatis) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChoqySirait&theme=github-dark&color=E63946&line=E63946&point=FFFFFF&area=true&hide_border=true" alt="Activity Curve Graph" width="95%" />
+  <!-- Animasi Pac-Man Memakan Kontribusi Dikejar Hantu -->
+  <img src="https://raw.githubusercontent.com/ChoqySirait/ChoqySirait/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Animation" width="100%" />
 </div>
