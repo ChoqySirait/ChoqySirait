@@ -1,9 +1,5 @@
 <div align="center">
 
-  <!-- Banner Samurai -->
-  <img src="https://github.com/user-attachments/assets/2c883f79-1b21-47fd-9d3b-87a6c52812a4" alt="Choqy Sirait Banner" width="450" />
-
-  <br><br>
 
   # Hi, I'm Choqy Pananda Sirait 
 
@@ -108,6 +104,5 @@
 <br>
 
 <div align="center">
-  <!-- Activity Wave Graph: Modern, presisi, dan selaras dengan tema Samurai Dark-Red -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChoqySirait&theme=github-dark&color=E63946&line=E63946&point=FFFFFF&area=true&hide_border=true" alt="Activity Curve Graph" width="95%" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" width="100%" />
 </div>
