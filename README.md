@@ -1,15 +1,20 @@
 <div align="center">
 
-# Hi, I'm Choqy Pananda Sirait 
+  <!-- Banner Tema Samurai -->
+  <img src="assets/banner.jpg" alt="Choqy Sirait Banner" width="100%" />
 
-<!-- Typing Animation Sempurna & Lebar -->
-<a href="https://github.com/ChoqySirait">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Databases%2C+Clean+Architecture+%26+System+Logic;UI/UX" alt="Typing SVG" />
-</a>
+  <br><br>
 
-<p align="center">
-  Passionate software engineer focused on building robust full-stack web applications, exploring network & system security fundamentals in Unix/Linux environments, and designing clean, efficient database architectures.
-</p>
+  # Hi, I'm Choqy Pananda Sirait 
+
+  <!-- Typing Animation (Aksen Merah Crimson #E63946) -->
+  <a href="https://github.com/ChoqySirait">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=E63946&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Databases%2C+Clean+Architecture+%26+System+Logic;UI/UX" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    Passionate software engineer focused on building robust full-stack web applications, exploring network & system security fundamentals in Unix/Linux environments, and designing clean, efficient database architectures.
+  </p>
 
 </div>
 
@@ -96,7 +101,8 @@
 ### 📈 Contribution Streak & Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoqySirait&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak dengan Dark-Red Theme yang serasi -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoqySirait&theme=blood&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakNum=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <br>
