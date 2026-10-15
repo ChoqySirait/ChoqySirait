@@ -4,7 +4,7 @@
 
   <!-- Typing Animation Utama (Aksen Merah Crimson #E63946) -->
   <a href="https://github.com/ChoqySirait">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=E63946&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Databases%2C+Clean+Architecture+%26+System+Logic;UI/UX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=E63946&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Databases%2C+Clean+Architecture+%26+System+Logic;UI/UX;AI+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p align="center">
