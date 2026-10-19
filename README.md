@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi, I'm Choqy Pananda Sirait 
+  # Hello, I'm Choqy Pananda Sirait 
 
   <!-- Typing Animation Utama (Aksen Merah Crimson #E63946) -->
   <a href="https://github.com/ChoqySirait">
