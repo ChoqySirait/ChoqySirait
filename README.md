@@ -117,3 +117,5 @@
   <!-- Animasi Pac-Man Memakan Kontribusi Dikejar Hantu -->
   <img src="https://raw.githubusercontent.com/ChoqySirait/ChoqySirait/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Animation" width="100%" />
 </div>
+
+## Never Give Up
